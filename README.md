@@ -59,7 +59,7 @@ Double Click:
 > WebREPL will be launched in Microsoft Edge.
 
 ### Step 5: Connect your PC's WiFi to ESP access point
-> **💡 Remark:** If ESP access point SSID does not appear, please press 'EN' or 'RST' button on ESP device.
+> **💡 Remark:** If ESP access point SSID does not appear, please press 'EN' or 'RST' button on ESP device or reconnect ESP device USB cable.
 
 ### Step 6: Access to WebREPL
 Click 'Connect' on WebREPL in Edge browser. Key in the WebREPL password and press Enter key.
