@@ -9,7 +9,12 @@ This project simplifies the process for new developers to get started with micro
 
 ---
 
-## 🧩 Supported Devices
+## 🧩 Operating Environment
+- Windows 7 or Above
+
+---
+
+## 🧩 Target Devices
 - ESP32  
 - ESP32-WROOM-32  
 - ESP8266  
