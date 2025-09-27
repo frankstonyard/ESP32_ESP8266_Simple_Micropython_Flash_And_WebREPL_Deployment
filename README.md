@@ -72,4 +72,4 @@ Click 'Connect' on WebREPL in Edge browser. Key in the WebREPL password and pres
 
 ### Done
 
-Check out [Simple steps to flash micropython and deploy WebREPL](https://yardvision.692025.xyz/index.php/simple-steps-to-flash-micropython-and-deploy-webrepl-on-esp32-or-esp8266/).
+Check out [Flash MicroPython and deploy WebREPL on ESP nodeMCU](https://yardvision.692025.xyz/index.php/simple-steps-to-flash-micropython-and-deploy-webrepl-on-esp32-or-esp8266/).
